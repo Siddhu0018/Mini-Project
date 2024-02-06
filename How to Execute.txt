@@ -1,0 +1,5 @@
+Step 1: Install PyCharm IDE https://www.jetbrains.com/pycharm/
+Step 2: Transfer the code folder into the pycharm directory
+Step 3: Install Requirements.txt (pip install -r requirements.txt) run the command in terminal
+Step 4: Open application.py and run it 
+Step 5: Click on the link in the output 
